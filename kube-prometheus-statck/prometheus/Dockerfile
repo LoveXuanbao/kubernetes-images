@@ -1,0 +1,2 @@
+FROM quay.io/prometheus/prometheus:v2.41.0
+MAINTAINER aniu
