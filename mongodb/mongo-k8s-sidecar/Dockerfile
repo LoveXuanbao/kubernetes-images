@@ -1,1 +1,1 @@
-FROM cvallance/mongo-k8s-sidecar
+FROM cvallance/mongo-k8s-sidecar:latest
